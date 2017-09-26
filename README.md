@@ -1,3 +1,2 @@
-Spree e-commerce extended for better UI, B2B commerce and improved payment flow.
-
+A simple mobile only rails app for tourist package comparison site. Use it as a starting point. 
  
